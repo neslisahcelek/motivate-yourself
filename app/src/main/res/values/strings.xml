@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Motivate Yourself</string>
+    <string name="affirmation_1">"Code I write is beautiful and well formed."</string>
+    <string name="affirmation_2">"I'm great at debugging."</string>
+    <string name="affirmation_3">"My colleagues appreciate my feedback from code reviews.</string>
+    <string name="affirmation_4">"I embrace the learning opportunities in every challenge."</string>
+    <string name="affirmation_5">"I work well with others in my department."</string>
+    <string name="affirmation_6">"My email contains only positive energy."</string>
+    <string name="affirmation_7">"I have limitless potential."</string>
+    <string name="affirmation_8">"I am the perfect fit for this position."</string>
+    <string name="affirmation_9">"My coworkers and I encourage and help each other grow and succeed."</string>
+    <string name="affirmation_10">"My job brings me joy and happiness."</string>
+
+</resources>
